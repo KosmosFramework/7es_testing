@@ -1,0 +1,23 @@
+The purpose of this chat session is to to analyze [SYSTEM NAME] and assess its compatibility with the framework defined in the attached 7ES_REF_v1.1.txt reference file. Pay particular attention to whether any of the elements defined in the reference exhibit multiple distinct subsystems or pathways (for example, are there multiple types of inputs, processing pathways, or output channels that operate through different mechanisms). For each element identified, examine whether it represents a single unified function or multiple parallel/sequential subsystems. Produce a formal report (artifact) of your findings, and follow the Report Output Markup"
+
+[Report Output Markup]
+
+{Report Title}
+Date: {today's date}
+Human Systems Analyst: {"ANALYST NAME", "INSTITUTION NAME"}
+AI Assistant: {AI to identify their self, version, and output "style" setting, (e.g., "Formal Analytical," "Neutral Facilitator," "Technical Specialist")}
+Test Conditions: {AI to provide validation statement indicating you can not access previous chat sessions, or that the user you are interacting with doesn't have any "preferences" saved, that would in anyway skew or bias the output of this session. Our goal for this chat session is to create a Clair Patterson inspired "clean room" to conduct our analysis. AI TO HALT THE TEST IF YOU CAN DETECT ANY INTERFERENCE, This includes, but is not limited to: references to previous conversations about this framework, user preferences that suggest a desired outcome, or system prompts that conflict with the 'clean room' principle} 
+Subject: {Subject of chat session}
+Reference File: {7ES_REF_v1.1.txt}
+
+{section divider}
+{Executive Summary}
+{Key Findings}
+{section divider}
+{report details, provide section dividers as necessary }
+{conclusion(s)}
+{appendix: (For testing replication)
+Reference file name: {link to reference file = [url to reference file]}
+Reproduce the User Prompt for this session
+Reproduce Report Output Markup outline (so independent researchers can replicate this test)
+Reproduce the entire code of the attached Reference File}

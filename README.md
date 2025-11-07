@@ -7,6 +7,25 @@ This repository hosts the core documents for a research program aimed at overcom
 
 The work presented here moves beyond traditional, siloed approaches to provide a unified methodology for understanding and intervening in complex systems.
 
+## Revolutionary Methodology: AI-Assisted Systems Research
+
+### Breaking Down Research Barriers
+Traditional systems analysis required years of training and specialized knowledge. The 7ES Framework changes this through **engineered prompts and standardized reference files** that enable anyone to conduct rigorous analysis through conversational AI.
+
+### How It Works
+1. **Engineered Prompts**: Carefully designed instructions that guide AI systems to apply 7ES methodology consistently
+2. **Reference Files**: Standardized definitions and examples that ensure analytical consistency
+3. **Clean Room Protocols**: Bias-minimization procedures adapted for AI-assisted research
+4. **Reproducible Results**: Multiple researchers can analyze the same system and achieve comparable insights
+
+### Democratic Research Access
+- **No PhD Required**: Anyone can conduct sophisticated systems analysis
+- **Quality Maintained**: Engineered prompts maintain research rigor
+- **Scale Possible**: Analyze everything from household systems to cosmic phenomena
+- **Learning Enhanced**: AI guidance helps users develop systems thinking skills
+
+*For detailed methodology, see: [Beyond Echo Chambers: AI-Assisted Framework Testing](https://kosmosframework.substack.com/p/beyond-echo-chambers)*
+
 ---
 
 ## Overview: A Universal Systems Language
@@ -89,9 +108,10 @@ To understand the framework and its implications, the following documents are pr
 * **File:** `7ES_REF_v1.3.txt`
 * **Description:** Canonical definitions of the seven elements with domain examples, ensuring consistent application across research contexts.
 
-### 9. Standard Testing Protocol
+### 9. AI-Assisted Research Protocol
 * **File:** `Framework_Testing_Prompt.txt`
-* **Description:** Engineered prompt for AI-assisted analysis ensuring standardized, bias-aware testing with reproducible results.
+* **Description:** Engineered prompt for AI-assisted analysis ensuring standardized, bias-aware testing with reproducible results. Enables anyone to conduct rigorous systems analysis through conversational AI.
+* **Related:** See [Beyond Echo Chambers](https://kosmosframework.substack.com/p/beyond-echo-chambers) for methodology overview.
 
 ### 10. Educational Portfolio
 * **File:** `KIST Academy – 7ES Learning Portfolio`
@@ -183,17 +203,11 @@ The 7ES Framework isn't just for experts—it's designed to help anyone understa
 
 **Start Simple** (Path A - No Background Required):
 1. **Pick a System You Know**: Your workplace, school, local government, or even your household
-2. **Ask Simple Questions**:
-   - What goes in? (Input)
-   - What comes out? (Output)  
-   - What happens in between? (Processing)
-   - What rules or limits apply? (Controls)
-   - How do you know it's working? (Feedback)
-   - How does it connect to other things? (Interface)
-   - What surrounds and affects it? (Environment)
-3. **Discover New Insights**: See patterns you never noticed before
-4. **Share Your Understanding**: Help others see how systems work
-5. **Make Better Decisions**: Use your systems understanding to interact more effectively
+2. **Use AI Assistance**: Load the testing prompt and reference file into any capable AI system
+3. **Ask Simple Questions**: The AI will guide you through the seven elements systematically
+4. **Discover New Insights**: See patterns you never noticed before
+5. **Share Your Understanding**: Help others see how systems work
+6. **Make Better Decisions**: Use your systems understanding to interact more effectively
 
 **Example - Understanding Your Local School System:**
 - *Input*: Students, teachers, funding, curriculum, community support
@@ -289,9 +303,9 @@ The 7ES Framework is developed and maintained by the KOSMOS Institute, dedicated
 - **Open Source Tools**: Software development for framework application
 
 ### Contact Information
-- **Lead Researcher**: Clinton Alden, The KOSMOS Institute
-- **Email**: [Contact information to be added]
-- **Repository**: [GitHub/GitLab links to be added]
+- **Lead Researcher**: Clinton Alden, The KOSMOS Institute of Systems Theory
+- **Email**: calden@thekosmosinstitute.org
+- **Repository**: https://github.com/KosmosFramework/7es_testing
 - **Community Forum**: [Discussion platform to be added]
 
 ---

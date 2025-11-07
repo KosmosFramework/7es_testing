@@ -57,7 +57,7 @@ Every functional system—from quantum fields to galaxies, from cells to civiliz
 **Mathematical Formalization**: Expressed as S = (I, O, P, C, F, N, E) with complexity metrics and evolutionary potential calculations.
 
 ### Democratic Access to Systems Understanding
-**No Special Training Required**: The framework is specifically designed so anyone can start using it immediately with systems they encounter daily.
+**No Special Training Required**: The 7ES testing methodology is specifically designed so that anyone can start using it immediately with systems they encounter daily.
 
 **Three Learning Paths Available**:
 - **Path A (Everyone)**: 1-3 hours, no background needed - understand your school, workplace, or community systems
@@ -78,7 +78,7 @@ To understand the framework and its implications, the following documents are pr
 
 ### 2. The Proposal: A Universal Architecture
 * **File:** `A_Proposed_Universal_Architecture_for_Systems_Analysis.pdf`
-* **Description:** The foundational white paper introducing the 7ES Framework. Hypothesizes that all functional systems exhibit seven recursive elements with evidence spanning quantum to cosmic scales.
+* **Description:** The foundational white paper, and research poroposal, introducing the 7ES Framework. Hypothesizes that all functional systems exhibit seven recursive elements with evidence spanning quantum to cosmic scales.
 
 ### 3. The Deep Dive: Refining Feedback
 * **File:** `Reconceptualizing_Feedback.pdf`

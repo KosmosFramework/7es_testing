@@ -316,7 +316,7 @@ The 7ES Framework is developed and maintained by the KOSMOS Institute, dedicated
 
 When referencing this repository or the 7ES Framework, please cite:
 
-> Alden, C. (2025). The 7ES Framework: A Universal Architecture for Systems Analysis. The KOSMOS Institute of Systems Theory. [Repository URL]
+> Alden, C. (2025). The 7ES Framework: A Universal Architecture for Systems Analysis. The KOSMOS Institute of Systems Theory. [(https://github.com/KosmosFramework/7es_testing)]
 
 For specific documents, cite individual papers as listed in the Core Documents section.
 

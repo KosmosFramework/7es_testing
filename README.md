@@ -306,7 +306,7 @@ The 7ES Framework is developed and maintained by the KOSMOS Institute, dedicated
 - **Lead Researcher**: Clinton Alden, The KOSMOS Institute of Systems Theory
 - **Email**: calden@thekosmosinstitute.org
 - **Repository**: https://github.com/KosmosFramework/7es_testing
-- **Community Forum**: [Discussion platform to be added]
+- **Community Forum**: The future home https://thekosmosinstitute.org/kist/
 
 ---
 

@@ -263,6 +263,8 @@ Understanding these elements helps you see how to effectively engage with your s
 ├── Case_Studies/
 │   ├── CAlden_7ES_Test_prompts.zip
 │   └── CAlden_7ES_TestCase_Outputs.zip
+├── Case_Studies_Synthesis/
+│   └── 7ES_Framework_Analysis_of_24_case_Studies.pdf
 └── Documentation/
     └── README.md
 ```

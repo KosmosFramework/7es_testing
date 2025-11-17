@@ -253,7 +253,7 @@ Understanding these elements helps you see how to effectively engage with your s
 │   ├── Reconceptualizing_Feedback.pdf
 │   ├── The_Alden_Asymmetry_Hypothesis.pdf
 │   ├── The_7ES_Calculus.pdf
-│   └── Completing_the_Higgs_Revolution.txt
+│   └── Completing_the_Higgs_Revolution.pdf
 ├── Research_Tools/
 │   ├── 7ES_Framework_Testing_Methodology_v1.0.pdf
 │   ├── 7ES_REF_v1.3.txt

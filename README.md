@@ -249,7 +249,7 @@ Understanding these elements helps you see how to effectively engage with your s
 7ES_Framework_Repository/
 ├── Core_Theory/
 │   ├── The_Fragmentation_of_Systems_Thinking.pdf
-│   ├── A_Proposed_Universal_Architecture_for_Systems_Analysis.pdf  
+│   ├── A_Proposed_Universal_Architecture_for_Systems_Analysis_v1.1.pdf 
 │   ├── Reconceptualizing_Feedback.pdf
 │   ├── The_Alden_Asymmetry_Hypothesis.pdf
 │   ├── The_7ES_Calculus.pdf

@@ -77,7 +77,7 @@ To understand the framework and its implications, the following documents are pr
 * **Description:** Diagnoses how Ludwig von Bertalanffy's visionary "General Systems Theory" was systematically dismantled by institutional forces into today's non-communicating silos. Explains *why* a unified approach is necessary.
 
 ### 2. The Proposal: A Universal Architecture
-* **File:** `A_Proposed_Universal_Architecture_for_Systems_Analysis.pdf`
+* **File:** `A_Proposed_Universal_Architecture_for_Systems_Analysis_v1.1.pdf`
 * **Description:** The foundational white paper, and research poroposal, introducing the 7ES Framework. Hypothesizes that all functional systems exhibit seven recursive elements with evidence spanning quantum to cosmic scales.
 
 ### 3. The Deep Dive: Refining Feedback

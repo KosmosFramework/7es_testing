@@ -259,7 +259,9 @@ Understanding these elements helps you see how to effectively engage with your s
 │   ├── 7ES_REF_v1.3.txt
 │   └── Framework_Testing_Prompt.txt  
 ├── Educational_Materials/
-│   └── KIST_Academy_7ES_Learning_Portfolio.pdf
+│   ├── KOSMOS_7ES_Learning_Portfolio.pdf
+│   ├── KOSMOS_7ES_Tools_and_Templates_Appendix.pdf
+│   └── 7ES_Glossary_of_Terms.pdf
 ├── Case_Studies/
 │   ├── CAlden_7ES_Test_prompts.zip
 │   └── CAlden_7ES_TestCase_Outputs.zip

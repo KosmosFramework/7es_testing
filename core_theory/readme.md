@@ -23,5 +23,5 @@ To understand the framework and its implications, the following documents are pr
 * **Description:** Mathematical formalization as 7-tuple S = (I, O, P, C, F, N, E) with complexity metrics, recursion theorems, and validation through nine diverse case studies.
 
 ### 6. The Cosmic Synthesis
-* **File:** `Completing_the_Higgs_Revolution.txt`
+* **File:** `Completing_the_Higgs_Revolution.pdf`
 * **Description:** Radical synthesis placing 7ES within cosmological context, arguing that the Higgs mechanism and baryon asymmetry enable the universe to function as a computational system with 7ES as its fundamental architecture.

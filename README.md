@@ -355,3 +355,6 @@ This work builds on decades of systems theory research from Ludwig von Bertalanf
 *"The 7ES Framework represents not just an analytical tool, but a potential solution to the fragmentation of knowledge that limits our ability to address civilization-scale challenges. By providing a universal language for systems analysis, it opens possibilities for the kind of integrated thinking our complex world demands."*
 
 — The KOSMOS Institute of Systems Theory
+
+
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/T6T61QYZFM)

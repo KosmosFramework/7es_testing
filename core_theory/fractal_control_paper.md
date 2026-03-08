@@ -6,7 +6,7 @@ The KOSMOS Institute of Systems Theory
 **Claude (Anthropic AI)**  
 Collaborative Research Assistant
 
-**Pre-print**: 03-08-2026
+Pre-print: 03-08-2026
 ---
 
 ## Abstract

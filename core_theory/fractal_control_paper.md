@@ -5,7 +5,8 @@ The KOSMOS Institute of Systems Theory
 
 **Claude (Anthropic AI)**  
 Collaborative Research Assistant
-(pre-print)
+
+**Pre-print**: 03-08-2026
 ---
 
 ## Abstract
@@ -352,7 +353,7 @@ The 7ES framework thus represents not merely an analytical convenience but a fun
 
 ## Acknowledgments
 
-This work emerged from decades of practical systems implementation across organizational contexts, theoretical refinement through interdisciplinary dialogue, and collaborative synthesis between human and artificial intelligence. The case study analyses were conducted through systematic 7ES framework application to diverse systems, demonstrating the framework's versatility and revealing unexpected depths of structural organization. We acknowledge the foundational contributions of W. Ross Ashby, whose Law of Requisite Variety provides the functional bedrock upon which this structural theory builds.
+This work emerged from over a decade of practical systems implementation across organizational contexts, theoretical refinement through interdisciplinary dialogue, and collaborative synthesis between human and artificial intelligence. The case study analyses were conducted through systematic 7ES framework application to diverse systems, demonstrating the framework's versatility and revealing unexpected depths of structural organization. We acknowledge the foundational contributions of W. Ross Ashby, whose Law of Requisite Variety provides the functional bedrock upon which this structural theory builds.
 
 ---
 

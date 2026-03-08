@@ -5,7 +5,7 @@ The KOSMOS Institute of Systems Theory
 
 **Claude (Anthropic AI)**  
 Collaborative Research Assistant
-
+(pre-print)
 ---
 
 ## Abstract

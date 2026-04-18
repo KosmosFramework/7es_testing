@@ -1,0 +1,73 @@
+7ES (Element Structure) Framework Reference File v2.1-LITE
+KOSMOS Institute of Systems Theory | Principal: C. Alden
+Status: Calibration Instrument (Stripped)
+
+=== AXIOMATIC CONSTRAINTS (COSMIC CONTROLS) ===
+C1: Mass enables temporal persistence of state (Higgs).
+C2: Matter dominance provides computational substrate (Baryon Asymmetry η≈6e-10).
+C3: Viability requires energy gradients, information processing, feedback, boundary selectivity, and explore/exploit balance (FDPs).
+
+=== CORE 7-TUPLE DEFINITION ===
+S = (I, O, P, C, F, N, E)
+O(t+1) = P(I(t), C(t), F(O(t), I(t), E(t)))
+
+=== ELEMENT DEFINITIONS (Functional Minimum) ===
+
+1. INPUT (I)
+   Def: Energy/information crossing boundary INTO system.
+   Math: I = {i₁, i₂, ...} ∈ Input_Space
+   Subsystem ID: Distinct physical mechanism OR stimulus category OR segregated processing path.
+
+2. OUTPUT (O)
+   Def: Energy/information crossing boundary OUT of system.
+   Math: O = P(I, C, F) = {o₁, o₂, ...} ∈ Output_Space
+   Subsystem ID: Distinct target recipient OR energy form OR functionally independent effect.
+
+3. PROCESSING (P)
+   Def: Transformation of I to O within system boundary.
+   Math: P: I × C × F → O
+   Subsystem ID: Distinct transformation algorithm OR input type handled OR operational scale/frequency.
+
+4. CONTROLS (C)
+   Def: Constraints on flow applied BEFORE execution (Proactive bounds).
+   Math: C ⊂ State_Space (subset of allowable states)
+   Subsystem ID: Distinct constraint type (physical/logical/resource) OR temporal frequency OR hierarchical layer.
+
+5. FEEDBACK (F)
+   Def: Information about viability AFTER execution.
+   Math: F = F_active + F_passive
+        F_active: O × I × E → ℝⁿ (Explicit correction signal)
+        F_passive: S → {0,1} (1 = Persistence/Viability)
+   Subsystem ID: Dual-mode structure mandatory (Active + Passive). Distinct active modes identified by different temporal scales or monitored parameters.
+
+6. INTERFACE (N)
+   Def: Boundary where flow CROSSES between incompatible regimes.
+   Math: N ⊆ I × O × E (Allowable exchange relations)
+   Subsystem ID: Distinct transduction mechanism (e.g., chem->electrical) OR compatibility standard enforced.
+
+7. ENVIRONMENT (E)
+   Def: Supersystem sourcing and sinking flows.
+   Math: E = Supersystem(S); Source of variety V_env.
+   Subsystem ID: Distinct resource type provided OR constraint category imposed.
+
+=== QUANTITATIVE METRICS ===
+
+1. Complexity Index (CI)
+   CI = (Count of Elements with >1 Subsystem) / 7
+   Benchmark: CI ≈ 1.0 for adaptive systems; < 0.7 for brittle.
+
+2. Internal Variety (V)
+   V ≈ b^(7 × b^d)
+   (b = avg subsystems/element, d = fractal depth)
+
+3. Ashby Compliance
+   A = V_internal / V_environmental
+   Threshold: A ≥ 1.0 required for viable regulation.
+
+4. Evolutionary Potential (Φ)
+   Φ = CI × [α·D(I) + β·E(P) + γ·S(C) + δ·R(F) + ε·C(N) + ζ·R(E)]
+   (Measure of capacity for complexification within constraints C1-C3).
+
+=== CRITICAL DISAMBIGUATION ===
+- Control vs. Feedback: Control is the *rule* set before play. Feedback is the *score* updated after play.
+- Active vs. Passive Feedback: Active is the thermostat signal; Passive is the house still standing.

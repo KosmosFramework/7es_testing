@@ -358,3 +358,11 @@ This work builds on decades of systems theory research from Ludwig von Bertalanf
 
 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/T6T61QYZFM)
+
+
+## License
+
+The written content, documentation, and reference materials in this repository are licensed under the
+[Creative Commons Attribution 4.0 International License](LICENSE).
+
+Copyright © 2025-2026 Clinton Alden / KOSMOS Institute of Systems Theory.

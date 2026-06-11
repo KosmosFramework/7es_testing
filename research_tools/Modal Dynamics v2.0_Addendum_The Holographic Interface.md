@@ -6,7 +6,7 @@
 **Principal Investigator:** Clinton Alden  
 **Version:** Holographic Addendum v1.0 – June 2026  
 **Based on:** Modal Dynamics v2.0 (Synthesis Edition, June 2026)  
-**Primary references:** Maldacena (AdS/CFT), Susskind, ’t Hooft, Ryu‑Takayanagi
+**Primary references:** Maldacena (AdS/CFT), Susskind, ’t Hooft, Ryu‑Takayanagi 
 
 ---
 

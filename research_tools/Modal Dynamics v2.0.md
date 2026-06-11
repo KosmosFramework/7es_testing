@@ -4,7 +4,7 @@
 **Principal Investigator:** Clinton Alden  
 **Version:** Modal Dynamics v2.0 – June 2026  
 **Based on:** Calculus v1.0 (April 2026) + Modal Extension v1.0 (June 2026) + Synthesis Insights  
-**Synthesis Lead:** Claude Opus 4.6 & GPT‑based collaborator
+**Synthesis Lead:** Claude Opus 4.6 & GPT‑based collaborator 
 
 ---
 

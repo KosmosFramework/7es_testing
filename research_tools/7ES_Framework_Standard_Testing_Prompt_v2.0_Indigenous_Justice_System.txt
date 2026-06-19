@@ -1,6 +1,6 @@
 The purpose of this chat session is to analyze Indeginous Justice and assess its compatibility with the framework defined in the attached 7ES_REF_v2.0.txt reference file. Pay particular attention to whether any of the elements defined in the reference exhibit multiple distinct subsystems or pathways (for example, are there multiple types of inputs, processing pathways, or output channels that operate through different mechanisms). For each element identified, examine whether it represents a single unified function or multiple parallel/sequential subsystems. Examine interfaces and environment for multiple subsystems and complexity.
 
-Produce a formal report (artifact) of your findings, and follow the Report Output Markup"
+Produce a formal report (artifact) of your findings, and follow the Report Output Markup" 
 
 [Report Output Markup]
 

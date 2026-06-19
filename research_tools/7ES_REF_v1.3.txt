@@ -1,10 +1,10 @@
 [ The 7ES (Element Structure) Framework  Reference File v1.3)
-# Added Domain examples - 7-25.2025 CAlden 
+# Added Domain examples - 7-25.2025 CAlden  
 # Revised the definition of the element FEEDBACK - 10-10-2025 - C.Alden
 # Updated Element definitions to match the Element definitions in the file "A Proposed Universal Architecture for Systems Analysis.pdf" - 11-11-2025 - C.Alden (https://github.com/KosmosFramework/7es_testing/blob/main/A_Proposed_Universal_Architecture_for_Systems_Analysis.pdf)
 
 
-Each of the seven elements , input, output, processing, controls, feedback, interface, environment, represents a necessary function in any operational system. And each element functions as a subsystem governed by the same 7ES structure. Inputs to one subsystem can be outputs of another, creating a fractal hierarchy. This recursion enables continuous auditability across scales (e.g., an electron’s energy state (Output) becomes atomic bonding (Input)).
+Each of the seven elements , input, output, processing, controls, feedback, interface, environment, represents a necessary function in any operational system. And each element functions as a subsystem governed by the same 7ES structure. Inputs to one subsystem can be outputs of another, creating a fractal hierarchy. This recursion enables continuous auditability across scales (e.g., an electronâ€™s energy state (Output) becomes atomic bonding (Input)).
 
 Element 1: Input
 Definition: Input refers to resources, signals, energy, or information that enter a system from its environment, initiating or modifying internal processes. Inputs provide the raw materials or stimuli that enable system function. In biological systems, inputs include nutrients and oxygen. In economic systems, inputs comprise capital, labor, and raw materials. In quantum field systems, inputs consist of particles and energy states entering interaction domains.
@@ -18,10 +18,10 @@ Definition: Processing involves the transformation or manipulation of inputs wit
 
 
 Element 4: Controls
-Definition: Controls are mechanisms within a system that guide, regulate, or constrain behavior to achieve desired outcomes or maintain operational parameters. Controls may be internal governance mechanisms or external regulatory constraints. In engineered systems, controls include thermostats, governors, and algorithmic constraints. In natural systems, controls manifest as physical laws, conservation principles, and boundary conditions. Controls differ from feedback in temporal orientation—controls are proactive constraints embedded in system design, whereas feedback is reactive information derived from outcomes.
+Definition: Controls are mechanisms within a system that guide, regulate, or constrain behavior to achieve desired outcomes or maintain operational parameters. Controls may be internal governance mechanisms or external regulatory constraints. In engineered systems, controls include thermostats, governors, and algorithmic constraints. In natural systems, controls manifest as physical laws, conservation principles, and boundary conditions. Controls differ from feedback in temporal orientationâ€”controls are proactive constraints embedded in system design, whereas feedback is reactive information derived from outcomes.
 
 
-Controls are proactive constraints embedded in a system’s design to guide behavior in advance, while feedback is reactive input derived from outcomes used to refine or correct that behavior after execution.
+Controls are proactive constraints embedded in a systemâ€™s design to guide behavior in advance, while feedback is reactive input derived from outcomes used to refine or correct that behavior after execution.
 
 For example, A thermostat senses room temperature (feedback) and compares it to a set point. If the temperature deviates, it sends a signal to activate heating or cooling (control). Here, the thermostat exemplifies a subsystem that performs both feedback and control functions, illustrating how elements can be nested and recursive in complex systems.
 
@@ -32,7 +32,7 @@ Definition:Feedback is the existential or operational state of a system that con
 
 For example, the stable existence of a proton, the fixed binding of a crystal, or the persistent vacuum state of the Higgs field all constitute passive feedback that their internal and external conditions remain coherent.
 
-This distinction is essential for applying the framework universally, as it allows the identification of feedback in non-cybernetic systems—such as fundamental physical fields, static structures, or simple stable entities—where no explicit signaling loop is present. The presence of either active or passive feedback is a necessary indicator of a system's functional status.
+This distinction is essential for applying the framework universally, as it allows the identification of feedback in non-cybernetic systemsâ€”such as fundamental physical fields, static structures, or simple stable entitiesâ€”where no explicit signaling loop is present. The presence of either active or passive feedback is a necessary indicator of a system's functional status.
 
 Element 6: Interface
 Definition: Interface defines the boundaries, touchpoints, or interaction modalities between a system and its environment or between subsystems within a larger system. Interfaces mediate exchanges, enforce compatibility standards, and determine whether interaction is possible across system types. In biological systems, cell membranes serve as interfaces. In digital systems, Application Programming Interfaces enable communication between software components. In social systems, communication channels and institutional platforms function as interfaces. Interfaces exist at every scale, from molecular binding sites to cosmic horizons.

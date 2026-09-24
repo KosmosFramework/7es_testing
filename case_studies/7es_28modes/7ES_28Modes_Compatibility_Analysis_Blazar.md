@@ -1,6 +1,6 @@
 **7ES 28-Mode Systems Analysis: The Blazar**
 
-Date: July 5, 2026
+Date: July 5, 2026 
 
 Human Systems Analyst: Clinton Alden, The KOSMOS Institute of Systems Theory
 

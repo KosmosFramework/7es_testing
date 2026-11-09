@@ -96,6 +96,10 @@ To understand the framework and its implications, the following documents are pr
 * **File:** `Completing_the_Higgs_Revolution.txt`
 * **Description:** Radical synthesis placing 7ES within cosmological context, arguing that the Higgs mechanism and baryon asymmetry enable the universe to function as a computational system with 7ES as its fundamental architecture.
 
+### 7. Ashby Compliance
+* **File:** `fractal_control_paper.md`
+* **Description:** How the 7ES Element Structure Physically Embodies Ashby's Law of Requisite Variety
+
 ---
 
 ## Research Tools & Validation Protocols
